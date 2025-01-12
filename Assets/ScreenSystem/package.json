@@ -1,9 +1,31 @@
 {
-  "name": "jp.adarapata.screensystem",
-  "version": "0.0.11",
+  "name": "com.kwanjoong.screensystem",
+  "version": "0.1.0",
+  "displayName": "Kwanjoong.ScreenSystem",
+  "description": "Wrapper for UnityScreenNavigator, for easy use in Unity UI Storyboard",
+  "unity": "2022.3",
+  "documentationUrl": "https://kwanjoong-dev.gitbook.io/unity-ui-storyboard/screensystem",
   "dependencies": {
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.4",
-    "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#1.13.2",
-    "com.harumak.unityscreennavigator": "https://github.com/Haruma-K/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator#1.6.3"
-  }
+    "com.cysharp.unitask": "2.5.4",
+    "jp.hadashikick.vcontainer": "1.16.8",
+    "com.harumak.unityscreennavigator": "1.7.0"
+  },
+  "keywords": [
+    "ugui",
+    "Clean Architecture",
+    "Simple Sclean Architecture",
+    "Onion Architecture",
+    "UnityScreenNavigator"
+  ],
+  "author": {
+    "name": "adarapata",
+    "url": "https://github.com/adarapata"
+  },
+  "contributors": [
+    {
+      "name": "Kwanjoong Lee",
+      "url": "https://github.com/kwan3854"
+    }
+  ],
+"license": "MIT"
 }
