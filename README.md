@@ -9,7 +9,7 @@ The development also emphasizes seamless integration with **VContainer**.
 
 ## Why Fork to `com.kwanjoong.screensystem`?
 
-1. **To serve as a core subsystem of Unity UI Storyboard**  
+1. **To serve as a core subsystem of [Unity UI Storyboard](https://github.com/kwan3854/UnityUIStoryboard)**  
    - The original ScreenSystem was designed for independent UI development by developers.  
    - This fork aims to function as a **subsystem** under the larger concept of Unity UI Storyboard, optimizing it for that purpose.  
 
